@@ -1,4 +1,4 @@
 # Test
 Percobaan
 #GITHUB
-~~ EVERYWHERE
+~~EVERYWHERE~~
